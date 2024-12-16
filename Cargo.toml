@@ -1,0 +1,10 @@
+[package]
+name = "ansi-strip"
+version = "0.1.1"
+edition = "2021"
+
+[[bin]]
+name = "ansi-strip"
+
+[dependencies]
+
